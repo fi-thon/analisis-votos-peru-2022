@@ -1,6 +1,7 @@
+from onpe.common import base_url
 from onpe.requests import get_response
 
-base_url = "https://api.resultadoserm2022.onpe.gob.pe/ubigeos"
+base_url = f"{base_url}/ubigeos"
 # codes
 regional_governor = "01"
 regional_council = "02"

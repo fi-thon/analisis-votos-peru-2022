@@ -1,0 +1,1 @@
+base_url = "https://resultadoshistorico.onpe.gob.pe/v1/ERM2022"
