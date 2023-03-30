@@ -1,0 +1,1 @@
+from config.parser import parse_arguments

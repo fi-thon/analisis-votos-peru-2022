@@ -47,7 +47,3 @@ def get_provincial_winner_by_district(province_code: str):
         f"results_by_districts_{province['name']}_{province_code}.csv",
         index=False
     )
-
-
-if __name__ == "__main__":
-    get_provincial_winner_by_district("140100")
